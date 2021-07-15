@@ -1,1 +1,0 @@
-https://DrKKE.github.io/rsschool-cv/cv
