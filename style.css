@@ -1,0 +1,86 @@
+body {
+	width: 800px;
+	margin: auto;
+	text-align: center;
+	background: rgb(255,227,240);
+	background: radial-gradient(circle, rgba(255,227,240,1) 24%, rgba(148,187,233,1) 100%);
+}
+
+.info {
+	height: 200px;
+	background-color: #ceb7cd;
+	margin-top: 20px;
+	border-radius: 50%;
+  }
+
+.avatar {
+	float: left;
+	width: 16%; 
+	margin: 27px 5px 0px 80px;	
+	border-radius: 50%;
+	}
+
+h1 {
+	margin: 5px 170px 0px 0px; 
+	padding-top: 15px;
+}
+
+h5 {
+	line-height: 1px;
+	text-decoration: underline;
+}
+
+ul {
+	font-size: 16px;
+	list-style-type: none;
+	font-style: italic;
+}
+
+span {
+	text-decoration: underline;
+	font-style: normal;
+}
+
+.line1 {
+	border: 1px dashed #fccdfc;
+	height: 2px;
+	background-color: rgb(170, 145, 165);
+}
+
+h4 {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+hr {
+	border: 1px solid #c994c9;
+	height: 2px;
+	background-color: rgb(170, 145, 165);
+}
+
+.example {
+	text-align: left;
+}
+
+.code {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+	text-align: left;
+}
+
+footer {
+	text-align: right;
+}
+
+.rs-Logo {	
+	float: right; 
+	width: 21%;
+	padding-left: 15px;
+}
+
+.year {
+	text-align: right;
+}
+
+
