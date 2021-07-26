@@ -1,1 +1,1 @@
-https://DrKKE.github.io/rsschool-cv/cv
+https://github.com/DrKKE/rsschool-cv
